@@ -1,0 +1,27 @@
+body {
+    background-image: url("../img/palms.jpg");
+    background-size:cover;
+}
+
+
+.container-fluid
+{
+    background-color: #253144;
+}
+
+footer 
+ {
+    bottom: 0;
+    padding: 1em;
+    color: white;
+    background-color: #253144;
+    clear: left;
+    text-align: center;
+    position: relative;
+    clear:both;
+     width: 100%;
+    position: fixed;
+    bottom: 0;
+    
+    
+}

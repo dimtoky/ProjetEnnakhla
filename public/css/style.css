@@ -1,0 +1,96 @@
+body {
+    background-image: url("../img/palms.jpg");
+    background-size:cover;
+}
+
+
+
+.container-fluid
+{
+    background-color: #253144;
+}
+ 
+ .container
+ {
+     text-align: center;
+     padding-top: 5%;;
+ }
+ 
+ .panel-body
+ {
+      border-radius: 25px;
+     background-color: rgba(200,200,200,0.9);
+     margin-left: 27%;
+     width: 45%;
+ }
+
+.form-group
+ {
+     padding-bottom: 3em;
+     padding-top: 2em;
+     height: 2em;
+ }
+
+
+
+.logo > h1
+{
+    color: #253144;
+    font-size: 5em;
+     font-weight: bold;
+}
+.logo
+{
+    background-color: rgba(255,255,255,0.5);
+    width: 55%;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    margin-left: 23%;
+    border-radius: 15px;
+    white-space:nowrap;
+}
+img
+{
+    border-radius: 15px;
+    width: 50%;
+     max-width: 100%;
+    height: auto;
+}
+
+.container
+{
+    height: 100%;
+}
+.summary
+{
+     border-radius: 25px;
+    display: block;
+    margin-top: 1em; 
+    font-size: 3em;
+    color: #253144;
+    background-color: rgba(255,255,255,0.5);
+    white-space:nowrap;
+
+}
+
+.buttonlog
+{
+    margin-left: 25%;
+    display: inline;
+}
+footer 
+ {
+    bottom: 0;
+    padding: 1em;
+    color: white;
+    background-color: #253144;
+    clear: left;
+    text-align: center;
+    position: relative;
+    clear:both;
+     width: 100%;
+    position: fixed;
+    bottom: 0;
+    
+    
+}
